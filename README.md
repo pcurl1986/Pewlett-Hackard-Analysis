@@ -10,4 +10,15 @@ The criterion was based on the birth dates ranging from 1952 to 1955 and hired d
 * Below is the ERD (Entity Relationship Diagram) used to visualize the relationship between the data sources and the structure of the company's employee plan to facilitate the analysis. 
 
 
-![EmployeeDB.png](/Analysis_Projects/Pewlett-Hackard-Analysis/EmployeeDB.png)
+![EmployeeDB.png](/EmployeeDB.png)
+
+## Future Job Openings
+
+* After conducting the analysis it was found that there is currently a large number of employees of retirement age holding senior titles (57,668/90,398 = 64%) with around 64% of the staff to retire. Please reference the Unique Titles table below. 
+
+![Capture.PNG](/Capture.PNG)
+
+## Mentorship Candidates
+* Below is the list of candidates that can qualify to become members of the mentorship program, they can be referenced as "senior" employees amongst the general staff.
+
+![Capture2.PNG](/Capture2.PNG)
